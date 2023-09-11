@@ -1,0 +1,16 @@
+
+1694278391328:::1 GET: /api/users
+
+1694278503501:::1 POST: /api/users
+
+1694278529050:::1 POST: /api/users
+
+1694278552958:::1 POST: /api/users
+
+1694278584176:::1 DELETE: /api/users/64fca3985df27476d8287d3b
+
+1694278651554:::1 GET: /api/users/64fca367b429fcc2c9ca3ca9
+
+1694372445066:::1 POST: /api/users
+
+1694372623532:::1 POST: /api/users
