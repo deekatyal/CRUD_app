@@ -1,6 +1,10 @@
 ### CRUD application in Node.js
 
-Tech Stack - Node.js and MongoDB
+Developed a web application that enables users to perform Create, Read, Update, and Delete (CRUD) operations on data through HTTP calls.
+
+MVC Architecture: Designed and implemented the project following the Model-View-Controller (MVC) architectural pattern, ensuring a clean and organized code structure for maintainability and scalability.
+
+Technology Stack: Used Node.js and Express.js to build the backend server, and MongoDB as the database.
 
 How to setup:
 
